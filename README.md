@@ -16,3 +16,16 @@
 **7.Identify geographic trends in pricing.**
 
 **8.Analyze the relationship between sales and packaging.**
+
+# Technical skills
+
+**1.Solid understanding of data visualization and analysis concepts.**
+
+**2.Experience with data modeling and ETL processes**
+
+**3.Proficiency in Power BI tools such as Power Query, Power Pivot, and Power View**
+ 
+**4.Ability to collaborate with stakeholders**
+
+
+
